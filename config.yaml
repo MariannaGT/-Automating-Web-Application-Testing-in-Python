@@ -1,0 +1,7 @@
+url: 'http://speller.yandex.net/services/spellservice?WSDL'
+url_task2: 'https://test-stand.gb.ru/gateway/login'
+username_task2: 'GB202306c86688'
+password_task2: 'a3d26680f7'
+url_post: 'https://test-stand.gb.ru/api/posts'
+driver_path: 'C:\Автоматизация тестирования веб-приложений на Python\chromedriver\chromedriver.exe'
+login_page: 'https://test-stand.gb.ru/login'
